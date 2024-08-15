@@ -42,9 +42,3 @@ Email: [fhx@shmtuaa.org](mailto:fhx@shmtuaa.org)
 
 Email: [e2union@shmtuaa.org](mailto:e2union@shmtuaa.org)
 
-### 信息工程学院科创中心
-
-**胡小川** 主任 _信息工程学院 计算机科学与技术_
-
-Email: [cieti@shmtuaa.org](mailto:cieti@shmtuaa.org)
-
