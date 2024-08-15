@@ -8,7 +8,7 @@ excerpt: 这里展示了组织的评议协商过程中的主要参与者
 
 ## ICPC团队
 
-**李梁裕** 学生教练 _信息工程学院 人工智能_
+**刘逸杰** 学生教练 _信息工程学院 人工智能_
 
 Email: [liliangyu@shmtuaa.org](mailto:liliangyu@shmtuaa.org)
 
@@ -17,13 +17,13 @@ Email: [liliangyu@shmtuaa.org](mailto:liliangyu@shmtuaa.org)
 
 ### 计算机学会
 
-**徐鑫** 社长 _信息工程学院 人工智能_
+**骆明宇** 社长 _信息工程学院 人工智能_
 
 Email: [caa@shmtuaa.org](mailto:caa@shmtuaa.org)
 
 ### 海智人工智能俱乐部
 
-**邓明** 社长 _信息工程学院 计算机科学与技术_
+**奚欣宇** 社长 _信息工程学院 计算机科学与技术_
 
 Email: [aicsmu@shmtuaa.org](mailto:aicsmu@shmtuaa.org)
 
