@@ -1,6 +1,6 @@
 # SHMTU AA Website Hosting
 
-Our website  [https://shmtuaa.org](https://shmtuaa.org)
+Our website - [https://shmtuaa.org](https://shmtuaa.org)
 
 Our partners - [https://shmtuaa.org/council](https://shmtuaa.org/council)
 
